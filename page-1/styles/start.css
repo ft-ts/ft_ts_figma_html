@@ -1,0 +1,411 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.start-Eqw {
+  width: 100%;
+  height: 102.4rem;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  background-color: #aca5ac;
+}
+.start-Eqw .frame-1-RQd {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 67.1rem;
+  top: 36.3rem;
+  overflow: hidden;
+}
+.start-Eqw .union-hd3 {
+  width: 19.8rem;
+  height: 20.2rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 64.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.start-Eqw .centre-ZQM {
+  width: 7rem;
+  height: 7rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 71.5rem;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #8f2c58;
+  border-radius: 3.5rem;
+}
+.start-Eqw .select-BKF {
+  width: 14.1892rem;
+  height: 9.4045rem;
+  position: absolute;
+  left: 55.4rem;
+  top: 85.1rem;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  background-color: #7e787e;
+  border-radius: 123.4rem;
+}
+.start-Eqw .start-59j {
+  width: 14.1892rem;
+  height: 9.4045rem;
+  position: absolute;
+  left: 73rem;
+  top: 85.1rem;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  background-color: #7e787e;
+  border-radius: 123.4rem;
+}
+.start-Eqw .b-button-n49 {
+  width: 10.5rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 117rem;
+  top: 75.4rem;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  background-color: #8f2c58;
+  border-radius: 5.25rem;
+}
+.start-Eqw .a-button-gQR {
+  width: 10.5rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 64.9rem;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  background-color: #8f2c58;
+  border-radius: 5.25rem;
+}
+.start-Eqw .select-Bc5 {
+  width: 12.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 58.1102rem;
+  top: 91.3296rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.3rem;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #464084;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .b-QUq {
+  width: 2.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 123.8247rem;
+  top: 84.7686rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.3rem;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #464084;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .a-stD {
+  width: 2.5rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 134.474rem;
+  top: 74.955rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.3rem;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #464084;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .start-YUZ {
+  width: 10.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 76.4102rem;
+  top: 91.3296rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.3rem;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #464084;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .game-login-background-E6V {
+  box-sizing: border-box;
+  padding: 2.2rem 6.9rem 2.9rem 6.6rem;
+  width: 97.5rem;
+  height: 61.7rem;
+  position: absolute;
+  left: 23.4rem;
+  top: 3.7rem;
+  border: solid 0.2rem #000000;
+  background-color: rgba(44, 18, 65, 0.2599999905);
+}
+.start-Eqw .game-login-background-E6V .item--tgq {
+  box-sizing: border-box;
+  padding: 10.213rem 19.4rem 20.95rem 14.6rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #859e5a;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 {
+  margin-bottom: 5.9125rem;
+  opacity: 0.5;
+  width: 100%;
+  height: 13.225rem;
+  position: relative;
+  filter: blur(1.2rem);
+  flex-shrink: 0;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .retro-fLD {
+  width: 46.6rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 2.3411rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #ff5abd;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .retro-b-wHj {
+  width: 49.0099rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #3964ff;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: -0.4rem 0 1.6rem #022aff;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .retro-y-bNH {
+  width: 49.0099rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0.8251rem;
+  top: 0.3125rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #edff1e;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0.2rem 0 0.8rem rgba(255, 255, 46, 0.6000000238);
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .retro-c-3VB {
+  width: 49.0099rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0.495rem;
+  top: 0.625rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #8a7d7d;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.2rem 0.4rem rgba(90, 255, 245, 0.25);
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .login-tVo {
+  width: 46.6rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 1.516rem;
+  top: 0.2083rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .cmyk-offset-BUu {
+  width: 50rem;
+  height: 9.6875rem;
+  position: absolute;
+  left: 0;
+  top: 1.4875rem;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .cmyk-offset-BUu .retro-6rm {
+  width: 46.6rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 2.3411rem;
+  top: -1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #ff5abd;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .cmyk-offset-BUu .retro-b-w8d {
+  width: 49.0099rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0;
+  top: -1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #3964ff;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: -0.4rem 0 1.6rem #022aff;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .cmyk-offset-BUu .retro-y-nf3 {
+  width: 49.0099rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0.8251rem;
+  top: -1.4875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #edff1e;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0.2rem 0 0.8rem rgba(255, 255, 46, 0.6000000238);
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .cmyk-offset-BUu .retro-c-Sjb {
+  width: 49.0099rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0.495rem;
+  top: -1.175rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  color: #8a7d7d;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.2rem 0.4rem rgba(90, 255, 245, 0.25);
+}
+.start-Eqw .game-login-background-E6V .item--tgq .cmyk-offset-additive-glow-kj3 .cmyk-offset-BUu .retro-JWu {
+  width: 46.6rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 1.516rem;
+  top: -1.5917rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.start-Eqw .game-login-background-E6V .item--tgq .press-any-key-kth {
+  margin-left: 5.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Pixelroborobo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

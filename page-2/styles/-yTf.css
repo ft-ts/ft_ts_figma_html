@@ -1,0 +1,263 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 38.3rem;
+}.item--sxD {
+  width: 100%;
+  height: 61.8rem;
+}
+.item--sxD .group-91-QBT {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.item--sxD .group-91-QBT .nocitication-block-9eq {
+  box-sizing: border-box;
+  padding: 42.5rem 3.2rem 14.3rem 5rem;
+  width: 38.3rem;
+  height: 61.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.4rem #ff25a7;
+  background-color: #444444;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .nocitication-block-9eq .rectangle-40-f7P {
+  width: 30.1rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .title-kuX {
+  width: 8.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 2.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--sxD .group-91-QBT .mode-ek1 {
+  width: 8.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 15.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--sxD .group-91-QBT .group-89-YqP {
+  width: 19.05rem;
+  height: 12.75rem;
+  position: absolute;
+  left: 5rem;
+  top: 21.1rem;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-yuyb-ssf {
+  margin: 0rem 5.55rem 0.55rem 0rem;
+  width: calc(100% - 5.55rem);
+  display: flex;
+  align-items: center;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-yuyb-ssf .ellipse-6-Pr1 {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  width: 2.7rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-yuyb-ssf .pubilc-KUm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #d3d3d3;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-qewb-rDo {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-qewb-rDo .auto-group-lcnd-CoT {
+  margin: 0rem 1.05rem 0.2rem 0rem;
+  width: 2.7rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-qewb-rDo .protected-vjT {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #d3d3d3;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-9mw1-4Ks {
+  margin-right: 4.25rem;
+  width: calc(100% - 4.25rem);
+  display: flex;
+  align-items: center;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-9mw1-4Ks .ellipse-7-ooF {
+  margin-right: 1.7rem;
+  width: 2.7rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--sxD .group-91-QBT .group-89-YqP .auto-group-9mw1-4Ks .private-kTb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #d3d3d3;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--sxD .group-91-QBT .password-HCd {
+  width: 16.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.286rem;
+  top: 36.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--sxD .group-91-QBT .group-81-BJ1 {
+  width: 16.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 53.2rem;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .group-81-BJ1 .group-80-iYq {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .group-81-BJ1 .group-80-iYq .edit-button-5eH {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .group-81-BJ1 .group-80-iYq .edit-button-5eH .rectangle-27-qtM {
+  width: 16.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  border: solid 0.2rem #ff3333;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .group-81-BJ1 .group-80-iYq .edit-button-5eH .create-mGD {
+  width: 9.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ff3a3a;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--sxD .group-91-QBT .rectangle-40-eL1 {
+  width: 30.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 5rem;
+  top: 7.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.item--sxD .group-91-QBT .password-required-Nmo {
+  width: 22.7rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ea4040;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.item--sxD .group-91-QBT .password-required-Nmo .password-required-Nmo-sub-0 {
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #fabebe;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+}
+.item--sxD .group-91-QBT .password-required-Nmo .password-required-Nmo-sub-1 {
+}
+.item--sxD .group-91-QBT .password-required-Nmo .password-required-Nmo-sub-2 {
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #fabebe;
+  font-family: ArcadeClassic, 'Source Sans Pro';
+}
